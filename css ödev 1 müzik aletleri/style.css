@@ -1,0 +1,47 @@
+header{
+    color:red;
+    text-decoration:none;
+    font-size:18px;
+    text-align: center;
+}
+
+#gez{
+    color:#2192ff;
+    font-size:44px;
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+}
+h1{
+    color: #FF0000;
+}
+.listeler1 {
+    display: flex;
+    justify-content: center;
+    gap:5px;
+    list-style: none;
+}
+    
+.box1{
+    text-align: center;
+    color: rgb(212, 189, 172);
+    font-size: 30px;
+}
+
+article p{
+    font-size: 18px;
+}
+
+.box2{
+    text-align: center;
+    color: purple;
+    list-style-position: inside;
+}
+
+.box2 p{
+    color: tomato   ;
+    font-size: 20px;
+}
+
+.box2 ul{
+    font-size: 20px;
+}
