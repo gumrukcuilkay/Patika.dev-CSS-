@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container1{
+    text-align: center;
+    
+}
+
+.container2{
+    background-color:#EDE8DC;
+    margin: 0 100px;
+    height: 60px;
+    text-align: center;
+}
+
+.container3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 1px;
+}
+
+.container3 div{
+    background-color: rgb(137, 229, 242);
+    margin-left: 1px;
+    margin-right: 1px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.box3 a{
+    display: inline-block   ;
+}
+
+.container4{
+    text-align: center;
+}
